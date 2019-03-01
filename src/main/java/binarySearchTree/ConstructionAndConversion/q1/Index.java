@@ -1,4 +1,5 @@
 package binarySearchTree.ConstructionAndConversion.q1;
 
-public class Solution {
+public class Index {
+    int index = 0;
 }
