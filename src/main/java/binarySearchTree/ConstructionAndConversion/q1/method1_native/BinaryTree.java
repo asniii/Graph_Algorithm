@@ -1,4 +1,4 @@
-package binarySearchTree.ConstructionAndConversion.q1;
+package binarySearchTree.ConstructionAndConversion.q1.method1_native;
 
 public class BinaryTree {
     Index index = new Index();
@@ -63,6 +63,15 @@ public class BinaryTree {
         return root;
     }
 
+    /***
+     * This is navie algorithm of time complexity O(n^2).
+     * @param pre
+     * @param preIndex
+     * @param low
+     * @param high
+     * @param size
+     * @return
+     */
     Node myConstructTreeUtil(int pre[],Index preIndex, int low, int high, int size){
 
         //Base case
@@ -89,33 +98,5 @@ public class BinaryTree {
         root.right = myConstructTreeUtil(pre,preIndex,temp,high,size);
         return root;
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 }
