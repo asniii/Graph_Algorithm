@@ -1,5 +1,10 @@
 package binaryTree.traversing.q11;
 
+/**
+ * Find n-th node in Postorder traversal of a Binary Tree
+ * Given a Binary tree and a number N, write a program to find the N-th node in the Postorder traversal of the given Binary tree.
+ */
+
 public class BinaryTree {
 
     public static int number = 0;
