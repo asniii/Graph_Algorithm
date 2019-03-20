@@ -9,5 +9,8 @@
         <module name="Graph_Algorithm" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Graph_Algorithm" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
