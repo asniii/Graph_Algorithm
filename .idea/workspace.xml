@@ -2,18 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04b675fd-d64f-475e-a18f-9e16367e6736" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/linkedList/singlyLinkedList/q13/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/linkedList/singlyLinkedList/q5/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/linkedList/singlyLinkedList/q7/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/linkedList/singlyLinkedList/q7/Node.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/binarySearchTree/basic/q1/BinarySearchTree$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/binarySearchTree/basic/q1/BinarySearchTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/binarySearchTree/basic/q2/BinarySearchTree$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/binarySearchTree/basic/q2/BinarySearchTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dfs_and_bfs/q1_graph_and_its_representation/Solution$Graph.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dfs_and_bfs/q1_graph_and_its_representation/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dfs_and_bfs/q2_breadth_first_seach/Solution$Graph.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dfs_and_bfs/q2_breadth_first_seach/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dfs_and_bfs/q3_depth_first_search/Graph.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dfs_and_bfs/q5_cycle_in_directed_graph/Graph.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dfs_and_bfs/q9_topological_sort/Graph.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -53,41 +46,57 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="1882155905">
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="2046" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="2046" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/binarySearchTree/CheckingAndSearching/q17/GFG.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/linkedList/singlyLinkedList/q7/LinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="87" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/binarySearchTree/CheckingAndSearching/q35/GFG.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1819">
-              <caret line="107" column="23" selection-start-line="107" selection-start-column="23" selection-end-line="107" selection-end-column="23" />
+            <state relative-caret-position="342">
+              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+        <entry file="file://$PROJECT_DIR$/src/main/java/linkedList/singlyLinkedList/q13/LinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+            <state relative-caret-position="565">
+              <caret line="84" column="42" selection-start-line="84" selection-start-column="42" selection-end-line="84" selection-end-column="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+        <entry file="file://$PROJECT_DIR$/src/main/java/linkedList/singlyLinkedList/q7/Node.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+            <state relative-caret-position="180">
+              <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -110,6 +119,10 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/binarySearchTree/CheckingAndSearching/q35/GFG.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/main/java/linkedList/singlyLinkedList/q5/LinkedList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/linkedList/singlyLinkedList/q7/Node.java" />
+        <option value="$PROJECT_DIR$/src/main/java/linkedList/singlyLinkedList/q7/LinkedList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/linkedList/singlyLinkedList/q13/LinkedList.java" />
       </list>
     </option>
   </component>
@@ -124,9 +137,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -158,7 +169,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="binarySearchTree" type="462c0819:PsiDirectoryNode" />
+              <item name="singlyLinkedList" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Graph_Algorithm" type="b2602c69:ProjectViewProjectNode" />
@@ -166,13 +177,23 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="binarySearchTree" type="462c0819:PsiDirectoryNode" />
-              <item name="CheckingAndSearching" type="462c0819:PsiDirectoryNode" />
+              <item name="queue" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Graph_Algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Graph_Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="queue" type="462c0819:PsiDirectoryNode" />
+              <item name="q2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -193,7 +214,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.LinkedList (2)">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -207,6 +228,48 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="binarySearchTree.CheckingAndSearching.q35.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedList (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="linkedList.singlyLinkedList.q7.LinkedList" />
+      <module name="Graph_Algorithm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="linkedList.singlyLinkedList.q7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedList (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="linkedList.singlyLinkedList.q13.LinkedList" />
+      <module name="Graph_Algorithm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="linkedList.singlyLinkedList.q13.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="linkedList.singlyLinkedList.q5.LinkedList" />
+      <module name="Graph_Algorithm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="linkedList.singlyLinkedList.q5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -243,8 +306,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.GFG" />
+      <item itemvalue="Application.LinkedList" />
+      <item itemvalue="Application.LinkedList (1)" />
+      <item itemvalue="Application.LinkedList (2)" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LinkedList (2)" />
+        <item itemvalue="Application.LinkedList (1)" />
+        <item itemvalue="Application.LinkedList" />
         <item itemvalue="Application.GFG" />
       </list>
     </recent_temporary>
@@ -263,10 +335,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="806" extended-state="1" />
+    <frame x="47" y="-4" width="1873" height="1084" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26323318" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27586207" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -275,13 +347,13 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.22058824" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.21989529" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32953367" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.44537815" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.44293195" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32843137" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -299,13 +371,6 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/Stack.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/heaps/q11/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="27" column="45" selection-start-line="27" selection-start-column="45" selection-end-line="27" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/binarySearchTree/CheckingAndSearching/q17/GFG.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -331,6 +396,64 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/binaryTree/traversing/q13/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/binaryTree/traversing/q13/BinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="29" column="14" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/heaps/q11/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="20" column="83" selection-start-line="20" selection-start-column="83" selection-end-line="20" selection-end-column="83" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/linkedList/singlyLinkedList/q5/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="511">
+          <caret line="67" column="67" selection-start-line="67" selection-start-column="67" selection-end-line="67" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/linkedList/singlyLinkedList/q7/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/linkedList/singlyLinkedList/q7/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/linkedList/singlyLinkedList/q13/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="565">
+          <caret line="84" column="42" selection-start-line="84" selection-start-column="42" selection-end-line="84" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
