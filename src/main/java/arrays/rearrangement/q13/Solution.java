@@ -28,10 +28,28 @@ public class Solution {
 
     static void reorder()
     {
-        for(int i = 0;i<arr.length;i++){
-            int temp = arr[i];
+        // Fix all elements one by one
+        for (int i=0; i<arr.length; i++)
+        {
+            // While index[i] and arr[i] are not fixed
+            while (index[i] != i)
+            {
+                // Store values of the target (or correct)
+                // position before placing arr[i] there
+                int  oldTargetI  = index[index[i]];
+                char oldTargetE  = (char)arr[index[i]];
 
+                // Place arr[i] at its target (or correct)
+                // position. Also copy corrected index for
+                // new position
+                arr[index[i]] = arr[i];
+                index[index[i]] = index[i];
 
+                // Copy old target values to arr[i] and
+                // index[i]
+                index[i] = oldTargetI;
+                arr[i]   = oldTargetE;
+            }
         }
     }
 

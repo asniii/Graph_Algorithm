@@ -22,3 +22,5 @@ logs
 psms-logs
 
 .idea/workspace.xml
+
+src/main/java/tes*
